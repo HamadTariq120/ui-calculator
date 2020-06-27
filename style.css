@@ -1,0 +1,113 @@
+
+
+body{
+    /* background-image:url('abc.jpg'); */
+    background-image:url(abc.jpg);
+}
+.main{
+    /* background-color: #5cdb95; */
+    background-color: #ffff;
+    margin-top: 120px;
+width: 300px;
+height: 450px;
+margin-left: auto;
+margin-right: auto;
+/* border: 2px solid black; */
+/* border-radius: 20px; */
+/* border: none; */
+}
+ .result{
+     margin-top: 15px;
+     margin-left: 4px;
+     margin-right: 2px;
+     width: 288px;
+     height: 70px;
+     background-color:white;
+     /* color: white; */
+     border: none;
+     font-size: 30px;
+     /* border-radius: 100px; */
+margin-bottom: 80px;
+outline: none;
+ }
+ .ce{
+     margin-top: 5px;
+     width: 49%;
+     height: 35px;
+     border-radius: 100%;
+     margin-bottom: 10px;
+     font-size: 18px;
+     font-weight: bold;
+     border: none;
+    background-color: #fff;
+    outline: none;
+    /* background-color: #5cdb95; */
+
+     /* color: white; */
+
+ }
+
+ .btn{
+    border: none;
+    /* background-color: #5cdb95; */
+    /* color: white; */
+border-radius: 100%;
+     width:24% ;
+     height: 35px;
+margin-bottom: 10px;
+font-size: 18px;
+font-weight: bold;
+background-color: #fff;
+outline: none;
+
+ }
+
+ .btna{
+    border: none;
+    background-color: #fff;
+    /* color: white; */
+border-radius: 100%;
+     width:24% ;
+     height: 35px;
+margin-bottom: 10px;
+font-size: 18px;
+font-weight: bold;
+margin-left: 228px;
+outline: none;
+/* border-radius: 100%;
+margin-bottom: 10px;
+border: none;
+    background-color: #5cdb95;
+    
+    color: white;
+     
+    width:49% ;
+    height: 35px;
+    font-size: 18px;
+    font-weight: bold; */
+ }
+ .name{
+     margin-top: 15px;
+    margin-left: 50px;
+     /* color: snow; */
+     font-family: algerian;
+
+ /* }
+ .btn:hover{
+     color: white;
+     background-color: blue;
+     /* font-size: 20px; */
+ }
+ /* .btna:hover{
+    color: white;
+    background-color: blue;
+    /* font-size: 20px; */
+/* }
+.ce:hover{
+    color: white;
+    background-color: blue;
+    /* font-size: 20px; */
+/* } 
+.name:hover{
+    font-size: 20px;
+}  */
